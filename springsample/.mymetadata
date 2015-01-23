@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-module
   type="WEB"
-  name="springsample Maven Webapp"
+  name="springsample"
   id="myeclipse.1422006544624"
   context-root="/springsample"
   j2ee-spec="6.0"
-  archive="springsample Maven Webapp.war">
+  archive="springsample.war">
   <attributes>
     <attribute name="webrootdir" value="src/main/webapp" />
   </attributes>
